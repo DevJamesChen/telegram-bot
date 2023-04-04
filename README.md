@@ -29,5 +29,3 @@ Once the script is running, you can interact with the AI assistant by sending me
 ## Contributing
 
 If you would like to contribute to this project, feel free to open a pull request or submit an issue.
-# telegram-gpt-bot
-# telegram-bot
