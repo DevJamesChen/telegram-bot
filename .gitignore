@@ -1,0 +1,8 @@
+# Ignore the .env file
+.env
+
+# Ignore all files in the .env folder
+.env/*
+
+# Ignore any .env files at the root level of your project
+/.env.*
